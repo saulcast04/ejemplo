@@ -1,1 +1,7 @@
 Hola a todos :D
+
+Para hacer un hola mundo en fortran tenemos que escribir lo siguiente
+
+program holaMundo
+	print*,  "Hola a todos"
+end program holaMundo
